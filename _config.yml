@@ -107,7 +107,7 @@ author:
   name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "다 아는 건 아니어도 바라는 대로"
-  location         : "경기도"
+  location         :
   email            :
   links:
     - label: "Email"
